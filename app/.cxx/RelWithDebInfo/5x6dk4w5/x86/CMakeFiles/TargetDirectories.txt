@@ -1,0 +1,4 @@
+C:/Users/User/Downloads/nback_skeletoncode-master/nback_skeletoncode-master/app/.cxx/RelWithDebInfo/5x6dk4w5/x86/CMakeFiles/nback_cimpl.dir
+C:/Users/User/Downloads/nback_skeletoncode-master/nback_skeletoncode-master/app/.cxx/RelWithDebInfo/5x6dk4w5/x86/CMakeFiles/JniBridge.dir
+C:/Users/User/Downloads/nback_skeletoncode-master/nback_skeletoncode-master/app/.cxx/RelWithDebInfo/5x6dk4w5/x86/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/nback_skeletoncode-master/nback_skeletoncode-master/app/.cxx/RelWithDebInfo/5x6dk4w5/x86/CMakeFiles/rebuild_cache.dir
