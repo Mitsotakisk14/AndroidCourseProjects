@@ -1,0 +1,1 @@
+C:\Users\katso\Documents\nback_skeletoncode-master - Copy\app\src\main\cpp\CMakeLists.txt
